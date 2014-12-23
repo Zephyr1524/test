@@ -1,0 +1,1 @@
+<?php header("location: http://localhost/bravante/index.php");?>

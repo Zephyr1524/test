@@ -1,0 +1,3 @@
+IndexIgnore *
+Options -Indexes 
+ErrorDocument 403 /bravante/uploads/403.php
